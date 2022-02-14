@@ -2,7 +2,7 @@
 
 ## Setup
 
-* git clone https://github.com/PROG38263-W21/Lab7.git
+* git clone https://github.com/PROG38263-W22/Lab7.git
 * cd Lab7
 * docker-compose build && docker-compose up
 * In a browser, navigate to the root directory of your virtual machine
